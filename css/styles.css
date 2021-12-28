@@ -32,10 +32,13 @@ p{
 }
 a{
   margin: 100px auto 100px auto;
-
+  text-decoration: none;
   color: #11999E;
 }
 
+a:hover{
+  color: #EAF6F6;
+}
 hr{
     border-style: none;
     border-width: 10px;
